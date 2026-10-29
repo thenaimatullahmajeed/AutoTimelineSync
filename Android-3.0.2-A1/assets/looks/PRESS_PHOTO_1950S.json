@@ -1,0 +1,11 @@
+{
+  "schema": "ATS_LOOK_V1",
+  "id": "PRESS_PHOTO_1950S",
+  "version": 1,
+  "warm": 0.04,
+  "monochrome": 0.48,
+  "grain": 0.23,
+  "vignette": 0.18,
+  "soften": 0.15,
+  "weave": 0.08
+}

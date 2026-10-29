@@ -1,0 +1,17 @@
+{
+  "schema": "ATS_STYLE_V1",
+  "id": "DARK_PSYCHOLOGY",
+  "version": 1,
+  "look": "DARK_NOIR",
+  "look_intensity": 0.8,
+  "transition_palette": [
+    "FADE_THROUGH_BLACK",
+    "DISSOLVE_BLUR"
+  ],
+  "transition_variety": 0.35,
+  "sfx_density": 0.52,
+  "music": "TENSION_PULSE_A",
+  "ambience": "CITY_NIGHT_SOFT",
+  "handheld": 0.22,
+  "caption_preset": "Documentary Highlight"
+}

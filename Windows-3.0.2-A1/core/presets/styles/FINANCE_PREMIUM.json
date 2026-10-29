@@ -1,0 +1,17 @@
+{
+  "schema": "ATS_STYLE_V1",
+  "id": "FINANCE_PREMIUM",
+  "version": 1,
+  "look": "FINANCE_PREMIUM",
+  "look_intensity": 0.8,
+  "transition_palette": [
+    "SLIDE_SHADOW",
+    "CROSSFADE"
+  ],
+  "transition_variety": 0.32,
+  "sfx_density": 0.4,
+  "music": "FINANCE_PULSE_A",
+  "ambience": "NONE",
+  "handheld": 0,
+  "caption_preset": "Documentary Highlight"
+}

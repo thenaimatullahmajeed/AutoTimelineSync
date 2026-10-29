@@ -1,0 +1,177 @@
+[
+  {
+    "module": "ats_studio",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\__init__.pyc",
+    "package": true
+  },
+  {
+    "module": "ats_studio.__main__",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\__main__.pyc",
+    "package": false
+  },
+  {
+    "module": "ats_studio.assets",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\assets.pyc",
+    "package": false
+  },
+  {
+    "module": "ats_studio.audio_packs",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\audio_packs.pyc",
+    "package": false
+  },
+  {
+    "module": "ats_studio.capabilities",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\capabilities.pyc",
+    "package": false
+  },
+  {
+    "module": "ats_studio.caption_presets",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\caption_presets.pyc",
+    "package": false
+  },
+  {
+    "module": "ats_studio.cinematic_transitions",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\cinematic_transitions.pyc",
+    "package": false
+  },
+  {
+    "module": "ats_studio.fast_audio",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\fast_audio.pyc",
+    "package": false
+  },
+  {
+    "module": "ats_studio.finishing",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\finishing.pyc",
+    "package": false
+  },
+  {
+    "module": "ats_studio.fonts",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\fonts.pyc",
+    "package": false
+  },
+  {
+    "module": "ats_studio.hardware",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\hardware.pyc",
+    "package": false
+  },
+  {
+    "module": "ats_studio.linter",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\linter.pyc",
+    "package": false
+  },
+  {
+    "module": "ats_studio.media",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\media.pyc",
+    "package": false
+  },
+  {
+    "module": "ats_studio.moments",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\moments.pyc",
+    "package": false
+  },
+  {
+    "module": "ats_studio.music",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\music.pyc",
+    "package": false
+  },
+  {
+    "module": "ats_studio.portable_smoke",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\portable_smoke.pyc",
+    "package": false
+  },
+  {
+    "module": "ats_studio.pro_audio",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\pro_audio.pyc",
+    "package": false
+  },
+  {
+    "module": "ats_studio.pro_compositor",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\pro_compositor.pyc",
+    "package": false
+  },
+  {
+    "module": "ats_studio.pro_renderer",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\pro_renderer.pyc",
+    "package": false
+  },
+  {
+    "module": "ats_studio.pro_schema",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\pro_schema.pyc",
+    "package": false
+  },
+  {
+    "module": "ats_studio.pro_spec",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\pro_spec.pyc",
+    "package": false
+  },
+  {
+    "module": "ats_studio.product",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\product.pyc",
+    "package": false
+  },
+  {
+    "module": "ats_studio.project_settings",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\project_settings.pyc",
+    "package": false
+  },
+  {
+    "module": "ats_studio.renderer",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\renderer.pyc",
+    "package": false
+  },
+  {
+    "module": "ats_studio.schema",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\schema.pyc",
+    "package": false
+  },
+  {
+    "module": "ats_studio.ui",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\ui.pyc",
+    "package": false
+  },
+  {
+    "module": "ats_studio.ui_parts",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\ui_parts\\__init__.pyc",
+    "package": true
+  },
+  {
+    "module": "ats_studio.ui_parts.audio_workers",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\ui_parts\\audio_workers.pyc",
+    "package": false
+  },
+  {
+    "module": "ats_studio.ui_parts.common",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\ui_parts\\common.pyc",
+    "package": false
+  },
+  {
+    "module": "ats_studio.ui_parts.dialogs",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\ui_parts\\dialogs.pyc",
+    "package": false
+  },
+  {
+    "module": "ats_studio.ui_parts.inspector",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\ui_parts\\inspector.pyc",
+    "package": false
+  },
+  {
+    "module": "ats_studio.ui_parts.views",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\ui_parts\\views.pyc",
+    "package": false
+  },
+  {
+    "module": "ats_studio.ui_parts.workers",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\ui_parts\\workers.pyc",
+    "package": false
+  },
+  {
+    "module": "ats_studio.user_data",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\user_data.pyc",
+    "package": false
+  },
+  {
+    "module": "ats_studio.visual_director",
+    "file": "ats_windows_3_0_2\\core\\ats_studio\\visual_director.pyc",
+    "package": false
+  }
+]

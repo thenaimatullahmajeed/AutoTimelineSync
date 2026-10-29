@@ -1,0 +1,11 @@
+{
+  "schema": "ATS_LOOK_V1",
+  "id": "SCIENCE_CLEAN",
+  "version": 1,
+  "warm": -0.04,
+  "monochrome": 0,
+  "grain": 0.02,
+  "vignette": 0.04,
+  "soften": 0.03,
+  "weave": 0
+}

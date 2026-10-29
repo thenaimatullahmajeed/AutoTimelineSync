@@ -1,0 +1,17 @@
+{
+  "schema": "ATS_STYLE_V1",
+  "id": "TECH_MODERN",
+  "version": 1,
+  "look": "TECH_MODERN",
+  "look_intensity": 0.8,
+  "transition_palette": [
+    "WHIP_PAN",
+    "CROSSFADE"
+  ],
+  "transition_variety": 0.4,
+  "sfx_density": 0.46,
+  "music": "TECH_AMBIENT_A",
+  "ambience": "NONE",
+  "handheld": 0.05,
+  "caption_preset": "Documentary Highlight"
+}

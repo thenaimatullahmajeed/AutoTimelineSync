@@ -1,0 +1,422 @@
+{
+  "matched": {
+    "ats_studio/assets.py": {
+      "path": "C:/Users/naima/.codex/.chatgpt-projects/g-p-6ab65feb00b48191a24211d8511a485f/ats_studio/assets.py",
+      "line": 1930,
+      "sha256": "4dc616af9aa1e087c8538118ca8fc3d7384a0b068d3c50ef762e0a7be3539bf4"
+    },
+    "ats_studio/audio_packs.py": {
+      "path": "history shell write",
+      "line": 9396,
+      "sha256": "06010c42ffa5580fdaa0cb38c074760b2a1570cdbddf4fd0668737d674f29ab4"
+    },
+    "ats_studio/fast_audio.py": {
+      "path": "C:\\Users\\naima\\.codex\\.chatgpt-projects\\g-p-6ab65feb00b48191a24211d8511a485f\\ats_studio\\fast_audio.py",
+      "line": "workspace",
+      "sha256": "25bd79125e91d67360df9acd34ecd515cfeff03f7062b70e20aef123c61fcd0c"
+    },
+    "ats_studio/fonts.py": {
+      "path": "C:\\Users\\naima\\.codex\\.chatgpt-projects\\g-p-6ab65feb00b48191a24211d8511a485f\\ats_studio\\fonts.py",
+      "line": "workspace",
+      "sha256": "47ac1392471d10e2d1b0270929a38d6d88c1888bf5fd83ffe1f0d4d6f08b930c"
+    },
+    "ats_studio/hardware.py": {
+      "path": "history shell write",
+      "line": 9396,
+      "sha256": "0439100cd84038c7fcb39430ad416464fcb310541e670a61e1b54017bb073da9"
+    },
+    "ats_studio/media.py": {
+      "path": "C:\\Users\\naima\\.codex\\.chatgpt-projects\\g-p-6ab65feb00b48191a24211d8511a485f\\ats_studio\\media.py",
+      "line": "workspace",
+      "sha256": "8aa93b8a088dec96fc4253ac4d88d94dd8e961925113471c48e0eceab06ef858"
+    },
+    "ats_studio/visual_director.py": {
+      "path": "E:/AI/ATS-2.1.0-SOURCE/ats_studio/visual_director.py",
+      "line": 13364,
+      "sha256": "a997f9898c8920f5ebd3032159ef2fe2f13939938aeea128a2f69897adea33cd"
+    },
+    "ats_studio/caption_presets.py": {
+      "path": "E:/AI/ATS-2.1.0-SOURCE/ats_studio/caption_presets.py",
+      "line": 13488,
+      "sha256": "583c0e35fb2a1a4436084b091b3ef4b43715124aa97d959606111cd9304f670b"
+    },
+    "ats_studio/cinematic_transitions.py": {
+      "path": "E:/AI/ATS-2.1.0-SOURCE/ats_studio/cinematic_transitions.py",
+      "line": 13503,
+      "sha256": "9c2b5bb04ce2490852aa5605f6505e5b7d3c10594900f60b71641a8f5a536258"
+    },
+    "ats_studio/moments.py": {
+      "path": "E:/AI/ATS-3.0-SOURCE/ats_studio/moments.py",
+      "line": 14461,
+      "sha256": "281e8b7b498515b0538ed37f23f124bd54f730537a2b38c48c7e7e13c6cc87ba"
+    },
+    "ats_studio/ui_parts/__init__.py": {
+      "path": "history shell write",
+      "line": 14468,
+      "sha256": "3cadf2180bf6f16439119e396a5b50152a1221e7881bdec4a18ae67cada7893b"
+    },
+    "ats_studio/ui_parts/audio_workers.py": {
+      "path": "E:/AI/ATS-3.0-SOURCE/ats_studio/ui_parts/audio_workers.py",
+      "line": 14495,
+      "sha256": "2746a0053588dd4b206dde192b5216a201ec08d263b3e8ad17df8fb09a9987a4"
+    },
+    "ats_studio/finishing.py": {
+      "path": "E:/AI/ATS-3.0-SOURCE/ats_studio/finishing.py",
+      "line": 14514,
+      "sha256": "db487eb5990ffc78d817fb8722838129757d1974b549bc6f51a9bc7109f66243"
+    },
+    "ats_studio/music.py": {
+      "path": "history shell write",
+      "line": 14511,
+      "sha256": "ce9be7894e7b7eb16c05a15e8d4a65c63de21fdd2baaa6fe9f0199ca83922e55"
+    },
+    "ats_studio/linter.py": {
+      "path": "E:/AI/ATS-3.0-SOURCE/ats_studio/linter.py",
+      "line": 14638,
+      "sha256": "802627c17febde46fd037e9ebab020de9acfc33cc5c03225fc5b6ccc2f440d40"
+    },
+    "ats_studio/portable_smoke.py": {
+      "path": "E:/AI/ATS-3.0-SOURCE/ats_studio/portable_smoke.py",
+      "line": 14726,
+      "sha256": "dbfc31cbcb047ea307bd2063c9ed989e7254b401db24b0e3de74cc7f9992690f"
+    },
+    "ats_studio/capabilities.py": {
+      "path": "history patch",
+      "line": 14760,
+      "sha256": "ef27e0d171d75bc1f2e16157b36b4bd54c1b9fc1566bb6967a773b71080421d2"
+    },
+    "ats_studio/__init__.py": {
+      "path": "history patch",
+      "line": 15403,
+      "sha256": "1373fa01b9c2c1a5a4ea7751d7336a94e4d579b5fdcf9aeff6fa25b5cef5768b"
+    },
+    "ats_studio/ui_parts/inspector.py": {
+      "path": "E:/AI/ATS-3.0-SOURCE/ats_studio/ui_parts/inspector.py",
+      "line": 15441,
+      "sha256": "130c7880b2eb62f7d92f6dd867638fa655f71770800130f35ef176ede9cbbd20"
+    },
+    "ats_studio/ui_parts/common.py": {
+      "path": "E:/AI/ATS-3.0-SOURCE/ats_studio/ui_parts/common.py",
+      "line": 15504,
+      "sha256": "ce5f749648a84c1ed97e6d0afd3ad9d7112049cf40cdead1a0568fa1239fe156"
+    },
+    "ats_studio/ui_parts/dialogs.py": {
+      "path": "E:/AI/ATS-3.0-SOURCE/ats_studio/ui_parts/dialogs.py",
+      "line": 15504,
+      "sha256": "8727307d2dd5bcfeeab00ce9d2eb48af071cb9ee1cf7374aea6ee1e72da75795"
+    }
+  },
+  "missing": [
+    "ats_studio/__main__.py",
+    "ats_studio/pro_audio.py",
+    "ats_studio/pro_compositor.py",
+    "ats_studio/pro_renderer.py",
+    "ats_studio/pro_schema.py",
+    "ats_studio/pro_spec.py",
+    "ats_studio/product.py",
+    "ats_studio/project_settings.py",
+    "ats_studio/renderer.py",
+    "ats_studio/schema.py",
+    "ats_studio/ui.py",
+    "ats_studio/ui_parts/views.py",
+    "ats_studio/ui_parts/workers.py",
+    "ats_studio/user_data.py"
+  ],
+  "patch_failures": [
+    {
+      "line": 9092,
+      "path": "C:/Users/naima/.codex/.chatgpt-projects/g-p-6ab65feb00b48191a24211d8511a485f/ats_studio/capabilities.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 10281,
+      "path": "C:/Users/naima/.codex/.chatgpt-projects/g-p-6ab65feb00b48191a24211d8511a485f/ats_studio/__init__.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 10305,
+      "path": "C:/Users/naima/.codex/.chatgpt-projects/g-p-6ab65feb00b48191a24211d8511a485f/ats_studio/pro_audio.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 10320,
+      "path": "C:/Users/naima/.codex/.chatgpt-projects/g-p-6ab65feb00b48191a24211d8511a485f/ats_studio/linter.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 10320,
+      "path": "C:/Users/naima/.codex/.chatgpt-projects/g-p-6ab65feb00b48191a24211d8511a485f/ats_studio/pro_renderer.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 10368,
+      "path": "C:/Users/naima/.codex/.chatgpt-projects/g-p-6ab65feb00b48191a24211d8511a485f/ats_studio/ui.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 10377,
+      "path": "C:/Users/naima/.codex/.chatgpt-projects/g-p-6ab65feb00b48191a24211d8511a485f/ats_studio/capabilities.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 10497,
+      "path": "C:/Users/naima/.codex/.chatgpt-projects/g-p-6ab65feb00b48191a24211d8511a485f/ats_studio/pro_audio.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 10528,
+      "path": "C:/Users/naima/.codex/.chatgpt-projects/g-p-6ab65feb00b48191a24211d8511a485f/ats_studio/pro_audio.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 10578,
+      "path": "C:/Users/naima/.codex/.chatgpt-projects/g-p-6ab65feb00b48191a24211d8511a485f/ats_studio/layer_compositor.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 10592,
+      "path": "C:/Users/naima/.codex/.chatgpt-projects/g-p-6ab65feb00b48191a24211d8511a485f/ats_studio/ui.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 10775,
+      "path": "C:/Users/naima/.codex/.chatgpt-projects/g-p-6ab65feb00b48191a24211d8511a485f/ats_studio/capabilities.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 10782,
+      "path": "C:/Users/naima/.codex/.chatgpt-projects/g-p-6ab65feb00b48191a24211d8511a485f/ats_studio/capabilities.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 10844,
+      "path": "C:/Users/naima/.codex/.chatgpt-projects/g-p-6ab65feb00b48191a24211d8511a485f/ats_studio/capabilities.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 11497,
+      "path": "C:/Users/naima/.codex/.chatgpt-projects/g-p-6ab65feb00b48191a24211d8511a485f/ats_studio/ui.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 11497,
+      "path": "C:/Users/naima/.codex/.chatgpt-projects/g-p-6ab65feb00b48191a24211d8511a485f/ats_studio/__init__.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 11641,
+      "path": "C:/Users/naima/.codex/.chatgpt-projects/g-p-6ab65feb00b48191a24211d8511a485f/ats_studio/ui.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 12557,
+      "path": "C:/Users/naima/.codex/.chatgpt-projects/g-p-6ab65feb00b48191a24211d8511a485f/ats_studio/ui.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 12623,
+      "path": "C:/Users/naima/.codex/.chatgpt-projects/g-p-6ab65feb00b48191a24211d8511a485f/ats_studio/ui.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 12683,
+      "path": "C:/Users/naima/.codex/.chatgpt-projects/g-p-6ab65feb00b48191a24211d8511a485f/ats_studio/__init__.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 12782,
+      "path": "C:/Users/naima/.codex/.chatgpt-projects/g-p-6ab65feb00b48191a24211d8511a485f/ats_studio/ui.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 12790,
+      "path": "C:/Users/naima/.codex/.chatgpt-projects/g-p-6ab65feb00b48191a24211d8511a485f/ats_studio/ui.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 12838,
+      "path": "C:/Users/naima/.codex/.chatgpt-projects/g-p-6ab65feb00b48191a24211d8511a485f/ats_studio/ui.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 13371,
+      "path": "E:/AI/ATS-2.1.0-SOURCE/ats_studio/schema.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 13371,
+      "path": "E:/AI/ATS-2.1.0-SOURCE/ats_studio/renderer.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 13371,
+      "path": "E:/AI/ATS-2.1.0-SOURCE/ats_studio/pro_schema.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 13371,
+      "path": "E:/AI/ATS-2.1.0-SOURCE/ats_studio/__init__.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 13379,
+      "path": "E:/AI/ATS-2.1.0-SOURCE/ats_studio/pro_spec.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 13379,
+      "path": "E:/AI/ATS-2.1.0-SOURCE/ats_studio/renderer.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 13379,
+      "path": "E:/AI/ATS-2.1.0-SOURCE/ats_studio/pro_renderer.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 13379,
+      "path": "E:/AI/ATS-2.1.0-SOURCE/ats_studio/pro_compositor.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 13385,
+      "path": "E:/AI/ATS-2.1.0-SOURCE/ats_studio/pro_compositor.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 13392,
+      "path": "E:/AI/ATS-2.1.0-SOURCE/ats_studio/pro_compositor.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 13392,
+      "path": "E:/AI/ATS-2.1.0-SOURCE/ats_studio/project_settings.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 13418,
+      "path": "E:/AI/ATS-2.1.0-SOURCE/ats_studio/ui.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 13444,
+      "path": "E:/AI/ATS-2.1.0-SOURCE/ats_studio/ui.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 13467,
+      "path": "E:/AI/ATS-2.1.0-SOURCE/ats_studio/ui.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 13488,
+      "path": "E:/AI/ATS-2.1.0-SOURCE/ats_studio/pro_spec.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 13503,
+      "path": "E:/AI/ATS-2.1.0-SOURCE/ats_studio/schema.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 13554,
+      "path": "E:/AI/ATS-2.1.0-SOURCE/ats_studio/capabilities.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 13567,
+      "path": "E:/AI/ATS-2.1.0-SOURCE/ats_studio/capabilities.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 13567,
+      "path": "E:/AI/ATS-2.1.0-SOURCE/ats_studio/ui.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 13660,
+      "path": "E:/AI/ATS-2.1.0-SOURCE/ats_studio/capabilities.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 13743,
+      "path": "E:/AI/ATS-2.1.0-SOURCE/ats_studio/ui.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 13768,
+      "path": "E:/AI/ATS-2.1.0-SOURCE/ats_studio/pro_spec.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 13789,
+      "path": "E:/AI/ATS-2.1.0-SOURCE/ats_studio/pro_spec.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 13898,
+      "path": "E:/AI/ATS-2.1.0-SOURCE/ats_studio/capabilities.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 14596,
+      "path": "E:/AI/ATS-3.0-SOURCE/ats_studio/ui_parts/inspector.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 14625,
+      "path": "E:/AI/ATS-3.0-SOURCE/ats_studio/ui.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 14726,
+      "path": "E:/AI/ATS-3.0-SOURCE/ats_studio/__main__.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 15157,
+      "path": "E:/AI/ATS-3.0-SOURCE/ats_studio/ui.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 15271,
+      "path": "E:/AI/ATS-3.0-SOURCE/ats_studio/ui_parts/views.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 15271,
+      "path": "E:/AI/ATS-3.0-SOURCE/ats_studio/ui.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 15334,
+      "path": "E:/AI/ATS-3.0-SOURCE/ats_studio/ui.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 15361,
+      "path": "E:/AI/ATS-3.0-SOURCE/ats_studio/ui_parts/views.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 15405,
+      "path": "E:/AI/ATS-3.0-SOURCE/ats_studio/ui_parts/views.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 15405,
+      "path": "E:/AI/ATS-3.0-SOURCE/ats_studio/__init__.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 15470,
+      "path": "E:/AI/ATS-3.0-SOURCE/ats_studio/ui.py",
+      "error": "Diff context absent"
+    },
+    {
+      "line": 15470,
+      "path": "E:/AI/ATS-3.0-SOURCE/ats_studio/ui_parts/views.py",
+      "error": "Diff context absent"
+    }
+  ]
+}

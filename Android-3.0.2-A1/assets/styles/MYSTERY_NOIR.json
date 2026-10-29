@@ -1,0 +1,18 @@
+{
+  "schema": "ATS_STYLE_V1",
+  "id": "MYSTERY_NOIR",
+  "version": 1,
+  "look": "DARK_NOIR",
+  "look_intensity": 0.8,
+  "transition_palette": [
+    "GENTLE_DISSOLVE",
+    "INK_WIPE",
+    "FADE_THROUGH_BLACK"
+  ],
+  "transition_variety": 0.36,
+  "sfx_density": 0.55,
+  "music": "DARK_DRONE_A",
+  "ambience": "WIND_SOFT",
+  "handheld": 0.18,
+  "caption_preset": "Documentary Highlight"
+}

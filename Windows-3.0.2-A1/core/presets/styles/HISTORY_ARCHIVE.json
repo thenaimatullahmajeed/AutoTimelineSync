@@ -1,0 +1,18 @@
+{
+  "schema": "ATS_STYLE_V1",
+  "id": "HISTORY_ARCHIVE",
+  "version": 1,
+  "look": "AGED_PARCHMENT",
+  "look_intensity": 0.8,
+  "transition_palette": [
+    "GENTLE_DISSOLVE",
+    "FILM_BURN",
+    "IRIS_WIPE"
+  ],
+  "transition_variety": 0.35,
+  "sfx_density": 0.55,
+  "music": "DARK_DRONE_A",
+  "ambience": "ROOM_TONE_STONE",
+  "handheld": 0.12,
+  "caption_preset": "Documentary Highlight"
+}

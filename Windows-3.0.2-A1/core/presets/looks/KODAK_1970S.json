@@ -1,0 +1,11 @@
+{
+  "schema": "ATS_LOOK_V1",
+  "id": "KODAK_1970S",
+  "version": 1,
+  "warm": 0.17,
+  "monochrome": 0.12,
+  "grain": 0.21,
+  "vignette": 0.15,
+  "soften": 0.16,
+  "weave": 0.03
+}

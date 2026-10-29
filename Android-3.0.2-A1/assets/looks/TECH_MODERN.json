@@ -1,0 +1,11 @@
+{
+  "schema": "ATS_LOOK_V1",
+  "id": "TECH_MODERN",
+  "version": 1,
+  "warm": -0.14,
+  "monochrome": 0.09,
+  "grain": 0.08,
+  "vignette": 0.2,
+  "soften": 0.05,
+  "weave": 0
+}

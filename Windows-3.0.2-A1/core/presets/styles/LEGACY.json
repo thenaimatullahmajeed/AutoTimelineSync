@@ -1,0 +1,14 @@
+{
+  "schema": "ATS_STYLE_V1",
+  "id": "LEGACY",
+  "version": 1,
+  "look": "CLEAN",
+  "look_intensity": 0,
+  "transition_palette": [],
+  "transition_variety": 0,
+  "sfx_density": 0,
+  "music": "NONE",
+  "ambience": "NONE",
+  "handheld": 0,
+  "caption_preset": "Documentary Highlight"
+}

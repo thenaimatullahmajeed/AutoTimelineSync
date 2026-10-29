@@ -1,0 +1,11 @@
+{
+  "schema": "ATS_LOOK_V1",
+  "id": "FINANCE_PREMIUM",
+  "version": 1,
+  "warm": -0.08,
+  "monochrome": 0.03,
+  "grain": 0.05,
+  "vignette": 0.12,
+  "soften": 0.04,
+  "weave": 0
+}

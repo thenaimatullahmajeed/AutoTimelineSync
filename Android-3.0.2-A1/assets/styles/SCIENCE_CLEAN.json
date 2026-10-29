@@ -1,0 +1,17 @@
+{
+  "schema": "ATS_STYLE_V1",
+  "id": "SCIENCE_CLEAN",
+  "version": 1,
+  "look": "SCIENCE_CLEAN",
+  "look_intensity": 0.8,
+  "transition_palette": [
+    "CROSSFADE",
+    "ZOOM_THROUGH"
+  ],
+  "transition_variety": 0.3,
+  "sfx_density": 0.32,
+  "music": "WARM_PAD_A",
+  "ambience": "NONE",
+  "handheld": 0,
+  "caption_preset": "Documentary Highlight"
+}

@@ -1,0 +1,55 @@
+{
+  "contract_id": {
+    "before": "ATS_SYNC_2026-10-A",
+    "candidate": "ATS_SYNC_2026-10-B",
+    "status": "Integration approved; packaged checks passed; separate master-chat acknowledgement pending",
+    "current": "ATS_SYNC_2026-10-B"
+  },
+  "schema": "ATS_PACKAGE_V2 unchanged; no fields added",
+  "enums_changed": false,
+  "seed": {
+    "before": {
+      "path": "$.style.seed",
+      "type": "integer",
+      "minimum": "-9223372036854775808",
+      "maximum": "9223372036854775807",
+      "line": 131,
+      "enforcement": "REJECT",
+      "source": "ats_studio/pro_schema.pyc:131",
+      "effective_minimum": 0,
+      "effective_maximum": 2147483647,
+      "effective_source": "visual_director.py:47 / product.pyc:103",
+      "effective_error": "Visual Director seed must be 0..2147483647",
+      "effective_error_json_path": null
+    },
+    "candidate": {
+      "path": "$.style.seed",
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 2147483647,
+      "line": 131,
+      "enforcement": "REJECT",
+      "source": "overlay/ats_studio/sync_core.py:apply_seed_guard",
+      "effective_minimum": 0,
+      "effective_maximum": 2147483647,
+      "effective_source": "visual_director.py:47 / product.pyc:103",
+      "effective_error": "must be an integer between 0 and 2147483647",
+      "effective_error_json_path": "$.style.seed"
+    }
+  },
+  "warnings": [
+    {
+      "path": "$.caption_style.preset",
+      "rule": "creator_rtl",
+      "severity": "WARN",
+      "message": "creator caption layout is left to right; multiword right-to-left order will be wrong"
+    },
+    {
+      "path": "$.caption_style.font",
+      "rule": "script_font",
+      "severity": "WARN",
+      "message": "{font} lacks native glyphs for some {script} characters; recommend {recommended}. Font fallback may render them; layout is not certified."
+    }
+  ],
+  "installed_app_replaced": false
+}

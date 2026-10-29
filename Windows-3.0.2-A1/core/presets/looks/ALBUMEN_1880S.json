@@ -1,0 +1,11 @@
+{
+  "schema": "ATS_LOOK_V1",
+  "id": "ALBUMEN_1880S",
+  "version": 1,
+  "warm": 0.29,
+  "monochrome": 0.27,
+  "grain": 0.25,
+  "vignette": 0.24,
+  "soften": 0.26,
+  "weave": 0.05
+}

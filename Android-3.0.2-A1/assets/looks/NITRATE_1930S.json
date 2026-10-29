@@ -1,0 +1,11 @@
+{
+  "schema": "ATS_LOOK_V1",
+  "id": "NITRATE_1930S",
+  "version": 1,
+  "warm": 0.08,
+  "monochrome": 0.64,
+  "grain": 0.27,
+  "vignette": 0.26,
+  "soften": 0.21,
+  "weave": 0.13
+}

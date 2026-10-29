@@ -1,0 +1,8 @@
+build/
+*.apk
+*.idsig
+__pycache__/
+Verification/
+*.jks
+*.keystore
+local.properties

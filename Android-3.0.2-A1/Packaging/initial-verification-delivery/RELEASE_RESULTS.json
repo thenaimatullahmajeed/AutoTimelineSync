@@ -1,0 +1,47 @@
+{
+  "product": "Auto Timeline Sync by Naimat",
+  "version": "3.0.2-A1 Android",
+  "contract": "ATS_SYNC_2026-10-B",
+  "apk_sha256": "0814e2ab3277edcd4dac811fa2a5062b737c237923e178f85cba75449539bdd0",
+  "source_zip_sha256": "b9ea0db2931df8f62159017a5dba904f0650cce600775278fc5f3f58b4eb3d89",
+  "prompt_sha256": "2653b0af0e19ca7e4f960b9a71ab790cf73f92c3f4c2ca2f5b30b3e66007e06e",
+  "prompt_byte_identical": true,
+  "tests": {
+    "API30-Sync": {
+      "api": 30,
+      "count": 23,
+      "failures": 0
+    },
+    "API35": {
+      "api": 35,
+      "count": 57,
+      "failures": 0
+    }
+  },
+  "export": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 720,
+        "height": 1280,
+        "r_frame_rate": "30/1",
+        "duration": "8.000000",
+        "nb_frames": "240"
+      },
+      {
+        "codec_name": "aac",
+        "r_frame_rate": "0/0",
+        "duration": "8.000000",
+        "nb_frames": "375"
+      }
+    ],
+    "format": {
+      "duration": "8.000000",
+      "size": "3777103"
+    }
+  },
+  "physical_phone_tested": false,
+  "windows_pixel_parity": false
+}

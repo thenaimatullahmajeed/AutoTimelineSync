@@ -1,0 +1,356 @@
+{
+  "tool": "Auto Timeline Sync by Naimat",
+  "version": "3.0.2",
+  "supported_schema_versions": [
+    "ATS_PACKAGE_V2"
+  ],
+  "project_format": 2,
+  "project_extension": ".ats3",
+  "required_fields": {
+    "package": [
+      "audio_duration",
+      "caption_style",
+      "captions",
+      "fps",
+      "project_title",
+      "scenes",
+      "schema",
+      "words"
+    ],
+    "scene": [
+      "end",
+      "id",
+      "image_id",
+      "start",
+      "voice_text"
+    ],
+    "word": [
+      "end",
+      "index",
+      "start",
+      "text"
+    ],
+    "caption": [
+      "end",
+      "id",
+      "start",
+      "text",
+      "word_end_index",
+      "word_start_index"
+    ],
+    "caption_style": [
+      "enabled",
+      "highlight_current_word"
+    ]
+  },
+  "optional_fields": {
+    "package": [
+      "format",
+      "direction",
+      "style",
+      "audio",
+      "overlays",
+      "ending",
+      "moments"
+    ],
+    "scene": [
+      "motion",
+      "transition",
+      "motion_config",
+      "transition_config",
+      "sfx",
+      "look_override"
+    ],
+    "caption_style": [
+      "preset",
+      "font",
+      "size",
+      "position",
+      "max_lines",
+      "text_color",
+      "accent_color",
+      "background",
+      "emphasis",
+      "animation"
+    ],
+    "format": [
+      "orientation",
+      "aspect_ratio"
+    ],
+    "direction": [
+      "energy",
+      "finish",
+      "voice_level",
+      "music_level",
+      "duck_db",
+      "sfx_enabled",
+      "transition_frequency"
+    ],
+    "finish": [
+      "grain",
+      "vignette",
+      "contrast"
+    ]
+  },
+  "enums": {
+    "motions": [
+      "GENTLE_DIAGONAL",
+      "IMPACT_PUNCH_IN",
+      "KEN_BURNS",
+      "PAN_DOWN",
+      "PAN_LEFT",
+      "PAN_RIGHT",
+      "PAN_UP",
+      "SLOW_PULL_OUT",
+      "SLOW_PUSH_IN",
+      "SLOW_ZOOM_OUT",
+      "STATIC",
+      "STATIC_HOLD",
+      "SUBTLE_PARALLAX",
+      "TINY_PUNCH_IN"
+    ],
+    "transitions": [
+      "BRUSH_WIPE",
+      "BURN_LIGHT",
+      "CROSSFADE",
+      "DISSOLVE",
+      "DISSOLVE_BLUR",
+      "FADE_THROUGH_BLACK",
+      "FADE_THROUGH_WHITE",
+      "FILM_BURN",
+      "FILM_FLASH",
+      "GENTLE_DISSOLVE",
+      "GLITCH_TRANSITION",
+      "HARD_CUT",
+      "INK_SPREAD",
+      "INK_WIPE",
+      "IRIS_REVEAL",
+      "IRIS_WIPE",
+      "LIGHT_LEAK",
+      "LIGHT_LEAK_FLASH",
+      "NONE",
+      "PAPER_TEAR",
+      "QUICK_PUSH",
+      "SLIDE_SHADOW",
+      "SMOKE_DISSOLVE",
+      "TORN_CENTER_SPLIT",
+      "WHIP_PAN",
+      "ZOOM_BLUR",
+      "ZOOM_THROUGH"
+    ],
+    "caption_presets": [
+      "Hormozi Style",
+      "MrBeast / Viral Pop",
+      "Karaoke Highlight",
+      "Neon Glow",
+      "Minimal Cinematic",
+      "Highlighter Box",
+      "Documentary Highlight",
+      "Clean Subtitle",
+      "Typewriter",
+      "Off"
+    ],
+    "styles": [
+      "CLEAN_DOC",
+      "DARK_PSYCHOLOGY",
+      "FINANCE_PREMIUM",
+      "HISTORY_ARCHIVE",
+      "HISTORY_MEDIEVAL",
+      "LEGACY",
+      "MYSTERY_NOIR",
+      "REEL_CLEAN_LIGHT",
+      "SCIENCE_CLEAN",
+      "TECH_MODERN"
+    ],
+    "looks": [
+      "AGED_PARCHMENT",
+      "ALBUMEN_1880S",
+      "CLEAN",
+      "CLEAN_DOC",
+      "DARK_NOIR",
+      "FINANCE_PREMIUM",
+      "KODAK_1970S",
+      "NITRATE_1930S",
+      "PRESS_PHOTO_1950S",
+      "SCIENCE_CLEAN",
+      "SILENT_FILM_1910S",
+      "TECH_MODERN",
+      "VHS_1980S"
+    ],
+    "easings": [
+      "EASE_IN",
+      "EASE_IN_OUT",
+      "EASE_OUT",
+      "LINEAR"
+    ],
+    "overlay_types": [
+      "DATE_STAMP",
+      "HIGHLIGHT_BOX",
+      "HOOK_CARD",
+      "LOWER_THIRD",
+      "MAP_ROUTE",
+      "PHOTO_NOTE",
+      "TEXT"
+    ],
+    "overlay_styles": [
+      "ARCHIVE",
+      "ARROW",
+      "CIRCLE",
+      "MODERN",
+      "PLAIN",
+      "RECT"
+    ],
+    "fonts": [
+      "Montserrat",
+      "Anton",
+      "Luckiest Guy",
+      "Bangers",
+      "Poppins",
+      "Bebas Neue",
+      "Arial",
+      "Segoe UI",
+      "Georgia",
+      "Consolas",
+      "DejaVu Sans",
+      "Liberation Sans",
+      "Source Code Pro",
+      "Inconsolata",
+      "Bitstream Vera Sans",
+      "Inter",
+      "Inter Black",
+      "Inter Bold",
+      "Inter Medium",
+      "Oswald",
+      "Playfair Display",
+      "Noto Nastaliq Urdu",
+      "Caveat"
+    ],
+    "sfx": [
+      "BRUSH_SCRATCH",
+      "CAMERA_SHUTTER",
+      "FILM_CLICK",
+      "IMPACT_LOW",
+      "IMPACT_SOFT",
+      "INK_SPLASH",
+      "PAGE_TURN",
+      "PAPER_SLIDE",
+      "RISER_SHORT",
+      "STAMP_THUD",
+      "SWIPE_SOFT",
+      "TICK_SOFT",
+      "TYPEWRITER_KEY",
+      "WHOOSH_FAST",
+      "WHOOSH_SOFT"
+    ]
+  },
+  "formats": {
+    "VERTICAL": {
+      "aspect_ratio": "9:16",
+      "tiers": [
+        [
+          720,
+          1280
+        ],
+        [
+          1080,
+          1920
+        ],
+        [
+          2160,
+          3840
+        ]
+      ]
+    },
+    "HORIZONTAL": {
+      "aspect_ratio": "16:9",
+      "tiers": [
+        [
+          1280,
+          720
+        ],
+        [
+          1920,
+          1080
+        ],
+        [
+          3840,
+          2160
+        ]
+      ]
+    },
+    "SQUARE": {
+      "aspect_ratio": "1:1",
+      "tiers": [
+        [
+          720,
+          720
+        ],
+        [
+          1080,
+          1080
+        ],
+        [
+          2160,
+          2160
+        ]
+      ]
+    },
+    "PORTRAIT": {
+      "aspect_ratio": "4:5",
+      "tiers": [
+        [
+          720,
+          900
+        ],
+        [
+          1080,
+          1350
+        ],
+        [
+          2160,
+          2700
+        ]
+      ]
+    }
+  },
+  "defaults": {
+    "fps_authoring": 30,
+    "orientation_if_no_votes": "VERTICAL",
+    "caption_preset": "Minimal Cinematic",
+    "font": "Inter",
+    "energy": "BALANCED",
+    "music_level": 0.18,
+    "voice_level": 1,
+    "duck_db": -9,
+    "finish": {
+      "grain": 0,
+      "vignette": 0,
+      "contrast": 0
+    }
+  },
+  "implemented": {
+    "v2_import": true,
+    "v3_import": false,
+    "layer_engine": false,
+    "remotion": false,
+    "full_scene_images": true,
+    "word_highlight": true,
+    "date_card": true,
+    "source_circle": true,
+    "music_equal_power_loop": true,
+    "director_always_on": true
+  },
+  "limits": {
+    "json_bytes": 52428800,
+    "fps": [
+      1,
+      60
+    ],
+    "circle_min_side": 0.03,
+    "circle_max_area": 0.2,
+    "invalid_moments": "skip with info notice",
+    "source_tracking": "static source box follows declared camera transform; no object detection",
+    "preview_export": "shared compositor and shared audio mix/master; resolution, sampling and compression affect visual pixels"
+  },
+  "serialization": "one compact UTF-8 object, no BOM, newline or trailing data"
+}

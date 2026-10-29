@@ -1,0 +1,18 @@
+{
+  "schema": "ATS_STYLE_V1",
+  "id": "HISTORY_MEDIEVAL",
+  "version": 1,
+  "look": "AGED_PARCHMENT",
+  "look_intensity": 0.8,
+  "transition_palette": [
+    "GENTLE_DISSOLVE",
+    "INK_WIPE",
+    "PAPER_TEAR"
+  ],
+  "transition_variety": 0.35,
+  "sfx_density": 0.5,
+  "music": "DARK_DRONE_B",
+  "ambience": "CANDLE_ROOM",
+  "handheld": 0.08,
+  "caption_preset": "Documentary Highlight"
+}

@@ -1,0 +1,20 @@
+AUTO TIMELINE SYNC BY NAIMAT — WINDOWS 3.0.2
+
+START: Open AutoTimelineSync.exe in this folder.
+If using the ZIP, extract the entire ZIP first. Keep _internal and runtime beside the EXE.
+
+1. Choose narration audio, numbered-image folder and ATS_PACKAGE_V2 JSON.
+2. Script JSON: Paste/Repaste remains available; replace an incorrect package here.
+3. Format dropdown defaults to your script. Choose another canvas ratio if needed.
+4. Create Timeline. The Images row now shows actual source thumbnails.
+5. F11 opens a larger preview. Preview uses physical screen pixels at high Windows scaling.
+6. Export > Fast automatically tries local hardware encoding; CPU fallback is automatic.
+   Elapsed time, encoded frames/FPS and export-stage details are shown.
+
+SHORTCUTS: Ctrl+I Import; Ctrl+N Import alias; Ctrl+O Open; Ctrl+S Save; Ctrl+E Export; F11 Fullscreen.
+
+If Voice is 0%, narration is muted. Change it under Sound. LIMIT_ONLY permits intentional silence;
+LOUDNORM needs audible audio and now checks that before rendering the video.
+
+See RELEASE_REPORT.md for actual tests and measured performance. This is the Windows release,
+not the Android APK. Existing V2 JSON files remain compatible.

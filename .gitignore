@@ -1,0 +1,15 @@
+**/build/
+**/dist/
+**/Verification/
+**/Evidence/
+**/Inputs/
+**/__pycache__/
+*.pyc
+*.apk
+*.idsig
+*.jks
+*.keystore
+*.pem
+*.p12
+*.key
+.env

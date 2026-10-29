@@ -1,0 +1,16 @@
+{
+  "schema": "ATS_STYLE_V1",
+  "id": "CLEAN_DOC",
+  "version": 1,
+  "look": "CLEAN_DOC",
+  "look_intensity": 0.8,
+  "transition_palette": [
+    "CROSSFADE"
+  ],
+  "transition_variety": 0.3,
+  "sfx_density": 0.3,
+  "music": "NONE",
+  "ambience": "NONE",
+  "handheld": 0,
+  "caption_preset": "Documentary Highlight"
+}

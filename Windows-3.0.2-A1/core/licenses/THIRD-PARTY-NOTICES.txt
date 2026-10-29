@@ -1,0 +1,37 @@
+AUTO TIMELINE STUDIO — THIRD-PARTY NOTICES
+
+This distribution includes the following pinned runtime components.
+
+FFmpeg 7.1.1 full static Windows build by Gyan Doshi
+Project: https://ffmpeg.org/
+Windows build source: https://www.gyan.dev/ffmpeg/builds/
+Configuration: GPL v3 build, including libx264 and libass
+License: See FFmpeg-LICENSE.txt in this directory.
+Source and build information: See FFmpeg-README.txt in this directory.
+
+Python 3.12
+License: Python Software Foundation License Version 2.
+https://www.python.org/psf/license/
+
+PySide6 6.8.3 / Qt 6.8.3
+License information: LGPLv3/GPLv3/commercial, depending on component.
+https://doc.qt.io/qtforpython/licenses.html
+
+Pillow 12.3.0 is used by the source test suite; it is not bundled in the desktop app.
+License: HPND.
+https://python-pillow.github.io/
+
+PyInstaller 6.22.0 is used as a build tool and includes its bootloader in the application.
+https://pyinstaller.org/
+
+
+cryptography 50.0.1 (included for the existing optional licensing module)
+Apache-2.0 OR BSD-3-Clause. See cryptography-LICENSE*.txt.
+This local edition does not connect to Supabase.
+
+Bundled fonts: DejaVu Sans, Source Code Pro Regular, Inconsolata Regular,
+Liberation Sans Bold, Bitstream Vera Italic. Exact licence and copyright files
+are beside the fonts in _internal/assets/fonts; see license_manifest.json.
+
+Procedural audio and preset data: generated for Auto Timeline Sync by Naimat.
+No external audio recordings or remote AI models are bundled.

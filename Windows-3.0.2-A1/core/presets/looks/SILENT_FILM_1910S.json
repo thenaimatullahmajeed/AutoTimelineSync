@@ -1,0 +1,11 @@
+{
+  "schema": "ATS_LOOK_V1",
+  "id": "SILENT_FILM_1910S",
+  "version": 1,
+  "warm": 0,
+  "monochrome": 0.9,
+  "grain": 0.31,
+  "vignette": 0.27,
+  "soften": 0.23,
+  "weave": 0.18
+}
